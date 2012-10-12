@@ -1,4 +1,4 @@
 jQueryDemo
 ==========
 
-Just Demo Demo
+Just Demo Demo Demo
